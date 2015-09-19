@@ -18,7 +18,7 @@
 # under the License.
 #
 -->
-##Zephyr For JIRA connector for Jenkins (zfj-jenkins)
+##JiraTestManager for Jenkins (JiraTestManager)
 ###About the Plugin
 
 
